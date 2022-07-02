@@ -1,0 +1,11 @@
+# Ignore unencrypted token files.
+dropbox_token
+Bots/**/token
+Bots/**/dropbox_token
+**/dropbox_token
+**/token
+Bots/PozaDeBot/Files/*
+Bots/AlertBot/*.txt
+Bots/NotesBot/Lists/*
+tokens
+passphrase_encryption.txt
